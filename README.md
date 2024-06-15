@@ -17,9 +17,10 @@
     ./clean.sh
     ```
 
-## List(链表)
+## List(线性表)
 
 - singleLinkList(单链表)
 - loopLinkList(单循环链表)
 - doubleLinkList(双链表)
 - doubleLoopLinkList(双循环链表)
+- stack(栈)
