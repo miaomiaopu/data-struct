@@ -24,3 +24,5 @@
 - doubleLinkList(双链表)
 - doubleLoopLinkList(双循环链表)
 - stack(栈)
+- queue(队列)
+队列的补充内容
